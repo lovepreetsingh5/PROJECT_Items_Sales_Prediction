@@ -1,6 +1,6 @@
-# Items_Sales_Prediction
-Item’s Sales Prices are predicted by building different Regression Models and measuring the accuracy score of each model.
-Differnt types of Items are as follows:
+# Outlet_Sales_Prediction
+Oultet Sales prices of items are predicted by building different Regression Models and measuring the accuracy score of each model.
+Differnt types of items are as follows:
 1. Fruits and Vegetables    
 2. Snack Foods              
 3. Household                
